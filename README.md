@@ -16,3 +16,6 @@
 ## Zimbabwe
 <img src='Zimbabwe-PeculiarEmployee.gif' title='Zimbabwe' width='' alt='' />
 
+## Turkmenistan
+<img src='HiddenUser-Turk.gif' title='Turkministan' width='' alt='' />
+
