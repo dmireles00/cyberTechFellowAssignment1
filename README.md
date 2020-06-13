@@ -8,7 +8,7 @@
 
 
 ## Namibia
-<img src='Secret#1-.gif' title='IDOR challenge 1' width='' alt='' />
+<img src='Secret#1-Namibia.gif' title='IDOR challenge 1' width='' alt='' />
 
 ## Cameroon
-<img src='HiddenCar-Cameroon.gif' title='IDOR challenge 2' width='' alt='' />
+<img src='Cameroon-HiddenCar.gif' title='IDOR challenge 2' width='' alt='' />
