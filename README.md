@@ -1,7 +1,7 @@
 # cyberTechFellowAssignment1
 
 ## Week 1 Map
-<img src='CTFweek1.png' title='Http header' width='' alt='' />
+<img src='CTFWEEK1.png' title='Http header' width='' alt='' />
 
 ## IDOR Ukraine 
 <img src='Ukraine-HiddenEmployee.gif' title='IDOR challenge' width='' alt='' />
