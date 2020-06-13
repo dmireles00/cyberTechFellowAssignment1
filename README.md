@@ -12,3 +12,7 @@
 
 ## Cameroon
 <img src='Cameroon-HiddenCar.gif' title='IDOR challenge 2' width='' alt='' />
+
+## Zimbabwe
+<img src='Zimbabwe-PeculiarEmployee.gif' title='IDOR challenge 2' width='' alt='' />
+
