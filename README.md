@@ -8,7 +8,7 @@
 
 
 ## Namibia
-<img src='Secret#1-Namibia.gif' title='Namibia' width='' alt='' />
+<img src='Secret1-Namibia.gif' title='Namibia' width='' alt='' />
 
 ## Cameroon
 <img src='Cameroon-HiddenCar.gif' title='Cameroon' width='' alt='' />
@@ -18,4 +18,12 @@
 
 ## Turkmenistan
 <img src='HiddenUser-Turk.gif' title='Turkministan' width='' alt='' />
+
+
+## Indonesia
+<img src='Riddler-Indonesia.gif' title='Indonesia' width='' alt='' />
+
+
+## South Sudan
+<img src='SouthSUdan-PrivEscal.gif' title='SouthSUdan' width='' alt='' />
 
