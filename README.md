@@ -25,5 +25,5 @@
 
 
 ## South Sudan
-<img src='SouthSUdan-PrivEscal.gif' title='SouthSUdan' width='' alt='' />
+<img src='SouthSudan-PrivEscal.gif' title='SouthSudan' width='' alt='' />
 
