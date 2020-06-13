@@ -1,7 +1,7 @@
 # cyberTechFellowAssignment1
 
 ## Week 1 Map
-<img src='Lab1Http.jpg' title='Http header' width='' alt='' />
+<img src='CTFWeek1.png' title='Http header' width='' alt='' />
 
 ## IDOR Challenge 
 <img src='IDOR1.gif' title='IDOR challenge' width='' alt='' />
