@@ -27,6 +27,9 @@
 ## South Sudan
 <img src='SouthSudan-PrivEscal.gif' title='SouthSudan' width='' alt='' />
 
+## Tanzania
+<img src='KP1-Tanzania.gif' title='Egypt' width='' alt='' />
+
 ## Egypt
 <img src='Kp2.gif' title='Egypt' width='' alt='' />
 
