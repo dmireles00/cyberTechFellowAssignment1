@@ -27,8 +27,12 @@
 ## South Sudan
 <img src='SouthSudan-PrivEscal.gif' title='SouthSudan' width='' alt='' />
 
+## Egypt
+<img src='Kp2.gif' title='Egypt' width='' alt='' />
+
+
 ## Mozambique
 <img src='BankRobbers1-Mozambique.gif' title='Mozambique' width='' alt='' />
 
 ## Angola
-<img src='BankWObbers2-Angola.gif' title='Angola' width='' alt='' />
+<img src='BankRObbers2-Angola.gif' title='Angola' width='' alt='' />
