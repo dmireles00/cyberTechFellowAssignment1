@@ -35,4 +35,4 @@
 <img src='BankRobbers1-Mozambique.gif' title='Mozambique' width='' alt='' />
 
 ## Angola
-<img src='BankRObbers2-Angola.gif' title='Angola' width='' alt='' />
+<img src='BankRobbers2-Angola.gif' title='Angola' width='' alt='' />
